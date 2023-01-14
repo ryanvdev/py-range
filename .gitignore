@@ -1,1 +1,4 @@
 .vscode/ 
+*.ignore.*
+lib/
+node_modules/
