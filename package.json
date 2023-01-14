@@ -1,5 +1,5 @@
 {
-    "name": "pyrange",
+    "name": "py-range-ts",
     "version": "1.0.0",
     "description": "Inspired by range function for Python. PyRange creates an object that stores only 3 values (start, stop, step) and corresponding methods (map, forEach, fill, toArray, toIterator, ...).",
     "main": "lib/index.js",
