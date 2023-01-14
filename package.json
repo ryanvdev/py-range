@@ -12,7 +12,9 @@
         "test": "test"
     },
     "scripts": {
-        "test": "jest"
+        "test": "jest",
+        "build": "rmdir /S /Q lib & tsc",
+        "prepare": "npm run build"
     },
     "repository": {
         "type": "git",
