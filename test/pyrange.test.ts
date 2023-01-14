@@ -1,4 +1,3 @@
-import { deepCompare } from 'ufer-object';
 import { pyRange } from '../src';
 
 describe('[General]', () => {

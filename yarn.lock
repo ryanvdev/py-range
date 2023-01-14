@@ -2084,11 +2084,6 @@ typescript@^4.9.4:
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.9.4.tgz#a2a3d2756c079abda241d75f149df9d561091e78"
   integrity sha512-Uz+dTXYzxXXbsFpM86Wh3dKCxrQqUcVMxwU54orwlJjOpO3ao8L7j5lH+dWfTwgCwIuM9GQ2kvVotzYJMXTBZg==
 
-ufer-object@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/ufer-object/-/ufer-object-1.1.1.tgz#e93c74e40e16be337b2ab2eb8875e22be5788537"
-  integrity sha512-rPnZBBN5OY6GaY+xxJAnpgIvdshH+zUWugRFt9zEMbjCANwAifRfO63IE0WsJ+Lh0PAywVdIlOqUHF5FrSxgCw==
-
 update-browserslist-db@^1.0.9:
   version "1.0.10"
   resolved "https://registry.yarnpkg.com/update-browserslist-db/-/update-browserslist-db-1.0.10.tgz#0f54b876545726f17d00cd9a2561e6dade943ff3"
